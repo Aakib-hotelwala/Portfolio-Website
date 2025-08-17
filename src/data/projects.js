@@ -24,5 +24,11 @@ export const projects = {
       live: "https://tweetify-frontend.onrender.com/",
       image: "/images/tweetify.png",
     },
+    {
+      title: "Inventory Status Management",
+      description: "Inventory status management app.",
+      live: "https://shelf-track.vercel.app/",
+      image: "/images/inventory_status_management.png",
+    },
   ],
 };
